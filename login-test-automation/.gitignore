@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Screenshot images (optional - but recommended if large)
+*.png
+
+# Edge WebDriver binary
+msedgedriver.exe
+
+# Virtual environment folders
+venv/
+env/
+
+# System files (Windows / Mac)
+Thumbs.db
+.DS_Store
